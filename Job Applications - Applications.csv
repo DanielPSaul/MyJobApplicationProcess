@@ -1,0 +1,92 @@
+App ID,Company,Type,Position,City,Date Applied ,Status,Interviewed
+1,Accenture,Consulting,Data Scientist,Atlanta,8/27/2022,No Reply,No
+2,Accenture,Consulting,Data Science Consultant,Atlanta,8/27/2022,Removed,No
+3,Accenture,Consulting,Entry Level Analyst Development Programs,Nashville/Atlanta,9/28/2022,Rejected,No
+4,Accenture,Consulting,Technical Architecture Delivery Analyst,Atlanta,11/6/2022,No Reply,No
+5,Accenture,Consulting,Data Architect,Atlanta,11/6/2022,No Reply,No
+6,Accenture,Consulting,Federal - Health Analytics Specialist,Atlanta,11/6/2022,No Reply,No
+7,Accenture,Consulting,Federal ETL Developer Specialist,Atlanta,11/6/2022,No Reply,No
+8,Accenture,Consulting,Data Engineer,Atlanta,11/6/2022,No Reply,No
+9,Accenture,Consulting,Data Analyst- Supply Chain Operations,Atlanta,11/6/2022,Rejected,Yes
+10,Amazon,Technology,Business Analyst,Nashville/Atlanta,8/21/2022,No Reply,No
+11,Amazon,Technology,Global Logistics Analyst,Nashville,8/24/2022,No Reply,No
+12,Amazon,Technology,Supply Chain Analyst,Nashville,8/24/2022,No Reply,No
+13,Atlanta Hawks,Sports,"Analyst, Research & Insights",Atlanta,9/1/2022,No Reply,No
+14,Bain & Company,Consulting,Associate Consultant,Atlanta,11/1/2022,No Reply,No
+15,BCG,Consulting,Consultant,Atlanta,11/1/2022,Rejected,No
+16,Capgemini,Consulting,Supply Chain Data Analytics,Atlanta,8/21/2022,No Reply,No
+17,Capgemini,Consulting,Associate Consultant II - Data & Analytics,Atlanta,8/21/2022,No Reply,No
+18,Capgemini,Consulting,Associate Consultant - Data & Analytics,Atlanta,8/21/2022,No Reply,No
+19,Capgemini,Consulting,Business Intelligence Analyst,Remote,8/24/2022,No Reply,No
+20,Capgemini,Consulting,Associate Consultant - frog | Data & Analytics,Atlanta,9/20/2022,No Reply,No
+21,Capgemini,Consulting,Consultant - Technical Analyst,Atlanta,9/28/2022,No Reply,No
+22,Capgemini Invent,Consulting,Associate Management Consultant,Atlanta,9/15/2022,Rejected,No
+23,Capgemini Invent,Consulting,ASSOCIATE CONSULTANT - FROG | CUSTOMER TRANSFORMATION,Atlanta,11/1/2022,No Reply,No
+24,Capgemini Invent,Consulting,ASSOCIATE CONSULTANT - FROG | DATA & ANALYTICS,Atlanta,11/1/2022,No Reply,No
+25,Capgemini Invent,Consulting,ASSOCIATE CONSULTANT - LIFE SCIENCES,Atlanta,11/1/2022,No Reply,No
+26,Capgemini Invent,Consulting,ASSOCIATE CONSULTANT - ET | BUSINESS TECHNOLOGY,Atlanta,11/1/2022,No Reply,No
+27,Capgemini Invent ,Consulting,Senior Management Consultant,Atlanta,9/20/2022,No Reply,No
+28,CAT Financial,Financial Services,Information Services Foundation Program,Nashville,9/28/2022,Offered,Yes
+29,CAT Financial,Financial Services,Entry Level Global Information Systems,Nashville,9/28/2022,Rejected,No
+30,CBRE,Real Estate,Data Analyst,Atlanta,10/30/2022,Removed,No
+31,CGI,Consulting,Business Analyst - Entry Level,Atlanta,10/28/2022,No Reply,No
+32,CGI,Consulting,Azure Cloud Data Engineer,Atlanta,10/28/2022,No Reply,No
+33,CGI,Consulting,Data Analytics QA Consultant,Atlanta,10/28/2022,Ghosted,Yes
+34,Deloitte,Consulting,Data Analytics Consultant,Nashville,8/18/2022,No Reply,No
+35,Deloitte,Consulting,"Consulting, Government & Public Services - Analyst",Nashville/Atlanta,8/21/2022,Rejected,No
+36,Deloitte,Consulting,Consulting - Analyst (Business Technology Solutions),Nashville/Atlanta,8/21/2022,Rejected,Yes
+37,Deloitte,Consulting,Consulting - Marketing Data Analyst,Nashville/Atlanta,8/21/2022,Rejected,No
+38,Deloitte,Consulting,Consulting - Consultant (Supply Chain),Nashville/Atlanta,8/21/2022,No Reply,No
+39,Deloitte,Consulting,Human Capital Assets Business Analyst,Nashville,8/22/2022,Rejected,No
+40,Deloitte,Consulting,Data Analyst/Market Strategist,Nashville,8/27/2022,Rejected,No
+41,Deloitte,Consulting,"GPS Consulting, Consultant (Strategy or Data)",Atlanta,9/15/2022,No Reply,No
+42,Deloitte,Consulting,Health Technology Data Analytics Consultant,Atlanta,9/20/2022,Rejected,No
+43,Deloitte,Consulting,Data Analyst,Atlanta,9/21/2022,Rejected,No
+44,Deloitte,Consulting,Government and Public Service Analyst - Enabling Areas Rotational Program,Atlanta,9/28/2022,Rejected,No
+45,Deloitte,Consulting,Business Analyst - Consultant,Atlanta,10/30/2022,No Reply,No
+46,Deloitte,Consulting,Strategy Analyst,Atlanta,11/4/2022,No Reply,No
+47,Delta Airlines,Transportation,Analytics Specialist,Atlanta,8/14/2022,No Reply,No
+48,Delta Airlines,Transportation,"Data Analyst, Technical Operations, TDaaS",Atlanta,8/17/2022,Rejected,No
+49,Delta Airlines,Transportation,"Analytics Specialist, Data Wrangling",Atlanta,8/17/2022,No Reply,No
+50,Delta Airlines,Transportation,"Specialist, Reporting and Business Analysis",Atlanta,8/17/2022,No Reply,No
+51,Delta Airlines,Transportation,"Sr. Analyst, Business Insights and Data Visualization",Atlanta,8/17/2022,No Reply,No
+52,Delta Airlines,Transportation,Analyst - Res Data Strategy and Analytics,Atlanta,8/21/2022,Rejected,No
+53,Delta Airlines,Transportation,"Business Analyst, Operations Decision Science",Atlanta,8/24/2022,Removed,No
+54,Delta Airlines,Transportation,Specialist - Marketing Analytics Development,Atlanta,8/24/2022,Ghosted,Yes
+55,Delta Airlines,Transportation,Senior Data Analyst,Atlanta,8/27/2022,No Reply,No
+56,Delta Airlines,Transportation,Specialist - Data Analytics,Atlanta,9/9/2022,Rejected,No
+57,Delta Airlines,Transportation,"Analyst, Commercial Strategy",Atlanta,9/28/2022,No Reply,No
+58,EY,Consulting,Supply Chain - Senior Associate-Consultant,Nashville,8/24/2022,Rejected,No
+59,EY,Consulting,Data Analytics Specialist,Atlanta,9/9/2022,Rejected,No
+60,EY,Consulting,Technology Consulting,Atlanta,11/18/2022,Rejected,No
+61,Google,Technology,"Customer Engineer, Technology, Data Management",Atlanta,8/17/2022,No Reply,No
+62,Google,Technology,"Technical Product Lead, Business Technology, YouTube",Atlanta,8/18/2022,No Reply,No
+63,Google,Technology,"Customer Engineer, Data Analytics, Public Sector",Atlanta,8/18/2022,No Reply,No
+64,Google,Technology,"Business Analyst, People Operations",Atlanta,11/14/2022,No Reply,No
+65,GSI,Consulting,Data Analyst,Nashville,8/22/2022,No Reply,No
+66,intelliflo,Financial Services,Business Operations Engineer,Atlanta,8/8/2022,Offered,Yes
+67,Invesco,Financial Services,"Analyst, Interactions Data QQQ",Atlanta,10/30/2022,No Reply,No
+68,KPMG,Consulting,"Sr Associate, Ignition - Data and Analytics",Atlanta,9/7/2022,Rejected,No
+69,KPMG,Consulting,ESG Data Solutions Senior Associate - Advisory Data Organization,Atlanta,9/20/2022,Rejected,No
+70,MITRE,Consulting,Data Science / Math / Statistics / Operations Research,Atlanta,11/11/2022,Rejected,No
+71,NTT DATA,Consulting,Entry Level Digital Technology Consulting Analyst,Nashville,9/12/2022,No Reply,No
+72,NTT DATA,Consulting,Business and Technical Strategy Consultant,Charlotte,9/12/2022,No Reply,No
+73,NTT DATA,Consulting,Entry Level Consultant,Nashville,9/12/2022,No Reply,No
+74,Oracle,Technology,Business Analyst 2-Ops,Remote,8/24/2022,Rejected,No
+75,OTR Solutions,Transportation,Business Intelligence Analyst,Atlanta,9/15/2022,Removed,No
+76,Protiviti,Consulting,Technology Consulting Consultant,Atlanta,9/29/2022,No Reply,No
+77,Protiviti,Consulting,Business Performance Improvement Consultant,Atlanta,9/29/2022,No Reply,No
+78,PwC,Consulting,Data & Analytics Tech Consulting Associate,Atlanta,8/18/2022,No Reply,No
+79,PwC,Consulting,Technology Consulting Associate,Atlanta,8/19/2022,Rejected,No
+80,PwC,Consulting,PwC Technology - Salesforce Data Analyst,Atlanta,10/30/2022,Rejected,No
+81,Robert Half,Consulting,Data Analyst,Nashville,8/22/2022,No Reply,No
+82,Slalom,Consulting,Data Visualization Consultant,Nashville,8/14/2022,No Reply,No
+83,Slalom,Consulting,Data Visualization Architect,Atlanta,8/14/2022,No Reply,No
+84,Slalom,Consulting,ESG Data & Technology Consultant,Nashville,8/21/2022,No Reply,No
+85,Slalom,Consulting,Data & Analytics Practice Leader,Nashville,8/22/2022,No Reply,No
+86,Spotify,Media,"Data Scientist, Spotify For Artists",Remote,8/18/2022,Rejected,No
+87,UnitedHealthcare,Healthcare,Data Analyst,Remote,8/24/2022,No Reply,No
+88,Visa,Financial Services,Data Scientist,Atlanta,8/14/2022,No Reply,No
+89,Insight Global,Technology,Data Analyst,Remote,11/19/2022,No Reply,No
+90,Insight Global,Technology,Business System Analyst,Atlanta,11/19/2022,No Reply,No
+91,Equifax,Financial Services,Data & Analytics Rotational Development Program,Atlanta,11/27/2022,No Reply,No
